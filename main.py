@@ -6,4 +6,7 @@ cart = Cart()
 cart.addProduct(phone1)
 cart.addProduct(tv1)
 
+if cart.isEmpty():
+    print("Cart is empty")
+
 print(cart)
