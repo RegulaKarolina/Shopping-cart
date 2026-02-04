@@ -1,10 +1,10 @@
 # Shopping Cart (Python)
 
-Projekt w Pythonie pokazujący:
-- klasy i dziedziczenie
-- pakiety i importy
-- użycie __str__()
-- prosty koszyk zakupowy
+Simple shopping cart project written in Python.
+Demonstrates:
+- OOP basics (classes, inheritance)
+- modules and imports
+- __str__ method usage
 
-## Jak uruchomić
+## How to run
 python main.py
